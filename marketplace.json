@@ -1,0 +1,5 @@
+{
+  "name": "claudemod",
+  "owner": { "name": "avdpe22" },
+  "plugins": [{ "name": "demo-mode", "source": "./" }]
+}
